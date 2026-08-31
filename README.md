@@ -3,7 +3,7 @@
 > 라즈베리파이 기반 IoT 전용 경량 Flooding 공격 탐지 IDS 소프트웨어
 
 1. 프로젝트 개요
-자원이 제한적인 IoT 기기를 보호하기 위해, 네트워크 길목(라즈베리파이 Gateway)에서 ICMP 및 TCP SYN Flooding 공격을 실시간으로 감지하고 대응하는 경량 침입 탐지 시스템(IDS)입니다.
+자원이 제한적인 IoT 기기를 보호하기 위해, 네트워크 길목(우리는 라즈베리파이)에서 ICMP 및 TCP SYN Flooding 공격을 실시간으로 감지하고 대응하는 경량 침입 탐지 시스템(IDS)
 
 2. 주요 기능
 - Packet Parser: 3~4계층 패킷 헤더(IP, ICMP, TCP SYN) 실시간 파싱
